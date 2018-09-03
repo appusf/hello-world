@@ -1,3 +1,3 @@
 # hello-world
 Hi all,
-just started ushing github
+just started ushing github.
